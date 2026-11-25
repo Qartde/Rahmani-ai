@@ -1,0 +1,6 @@
+{
+  "name": "Nuru Digital",
+  "description": "Studio ya ubunifu na utengenezaji wa tovuti za kisasa, mifumo ya mauzo mtandaoni, na programu za wavuti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
